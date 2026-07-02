@@ -1,0 +1,6 @@
+# run.py - Точка входа в приложение
+from core.app import BudgetApp
+
+if __name__ == "__main__":
+    app = BudgetApp()
+    app.mainloop()

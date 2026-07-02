@@ -1,0 +1,73 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.code-workspace
+
+# Системные
+.DS_Store
+Thumbs.db
+
+# Данные
+budget.db
+
+# Логи
+*.log
+
+# Тесты и покрытие
+.pytest_cache/
+htmlcov/
+.coverage
+*.cover
+
+# SQLite временные файлы
+*.db-journal
+*.db-shm
+*.db-wal
+budget.db-journal
+budget.db-shm
+budget.db-wal
+
+# Matplotlib кэш
+matplotlib/
+.cache/
+
+# Qt/PySide6
+pyside6_what_if/
+
+# Файлы резервной копии
+*.bak
+*.old
+backups/
+olds/
+
+# ИИ Асистент/Агент
+.koda/
+.roo/
+AGENTS.md
+KODA.md
+
+# Прочие
+Архивные_скрипты/
+plans
+Полезное из чата/
+olds_dialogs/
+Структура БД.txt
+commit_msg.txt
+operation_dialog copy.py
+архив.py
+changelog/
